@@ -1,0 +1,4 @@
+test copy 6-10折验证.py------是将四个类别分别进行二分类的结果，训练还是按照四分类进行训练，但是有通过计算算出每个类别作为正样本，其他三各类别作为负样本的二分类评价指标
+test3.py-----------test copy 6-10折验证.py里面的read_data_physionet_4_with_val是test3里面的
+test copy 3.py-------进行四分类预测
+test2.py-------------test copy 3.py里面的read_data_physionet_4_with_val是test2里面的
